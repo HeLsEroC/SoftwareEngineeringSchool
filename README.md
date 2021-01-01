@@ -1,1 +1,1 @@
-# SoftwareEngineeringSchool
+# Software engineering school
